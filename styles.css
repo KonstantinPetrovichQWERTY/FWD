@@ -63,3 +63,28 @@ li {
     width: 32px;
     height: 32px;
 }
+
+.comic-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.comic-image img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.comic-title {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.comic-dete {
+    font-size: 1em;
+    margin-bottom: 5px;
+}
+
+.comic-alt {
+    font-size: 1em;
+}
